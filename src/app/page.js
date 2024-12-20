@@ -30,14 +30,14 @@ export default function Home() {
                 </a>
               </div>
             </div>
-            <div className={styles.footer}>
+            {/* <div className={styles.footer}>
               <h4>会社情報</h4>
               <p className={styles.title}>
                 会社名：Vantage Prime Trading Limited.
               </p>
               <p>住所: 10 Manoel Street , Castries , St.Lucia</p>
               <p>連絡先: support@vantagetradings.com</p>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
